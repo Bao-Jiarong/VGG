@@ -3,21 +3,23 @@ The repository includes the implementation of VGG11, VGG13, VGG16 and VGG19 in T
 
 ### VGG Architecrures
 
-<p align="center">
+<center>
 <img src="img/vgg.png" align="center" width="800" height="600"/>
-</p>
-<center>image is taken from [source](http://blog.17study.com.cn/2018/01/15/tensorFlow-series-8/)</center>   
+</center>
+
+<center>image is taken from [source](http://blog.17study.com.cn/2018/01/15/tensorFlow-series-8/)</center>
 
 <p align="center">   
-<img src="img/vgg16.png" width="800" height="400"/>   
+<img src="img/vgg16.png" width="700" height="400"/>   
 </p>
-<center>VGG16 Architecture <small>source</small></center>
+<center>VGG16 Architecture</center>
 
 
 ### Training on MNIST
-<p align="center">
-<img src="img/mnist.png" width="800" height="350"/>
-</p>   
+<center>
+<img src="img/mnist.png" width="400" height="350"/>
+</center>
+
 ### Requirement
 ```
 python==3.7.0
