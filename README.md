@@ -4,19 +4,20 @@ The repository includes the implementation of VGG11, VGG13, VGG16 and VGG19 in T
 ### VGG Architecrures
 
 <p align="center">
-image is taken from [source](http://blog.17study.com.cn/2018/01/15/tensorFlow-series-8/)
 <img src="img/vgg.png" align="center" width="800" height="600"/>
 </p>
+<center>image is taken from [source](http://blog.17study.com.cn/2018/01/15/tensorFlow-series-8/)</center>   
 
-<p align="center">
-VGG16 Architecture <small>source</small>
+<p align="center">   
 <img src="img/vgg16.png" width="800" height="400"/>   
 </p>
+<center>VGG16 Architecture <small>source</small></center>
 
 
 ### Training on MNIST
+<p align="center">
 <img src="img/mnist.png" width="800" height="350"/>
-
+</p>   
 ### Requirement
 ```
 python==3.7.0
@@ -40,11 +41,11 @@ Since VGG is somehow huge and painfully slow in training ,I decided to make numb
 You can also make the size of images smaller, so that it can be ran faster and doesn't take too much memories.
 
 ### Result for MNIST:   
-Learning rate = 0.0001  
-Batch size = 32  
-Optimizer = Adam   
-Fliters = 8   
-epochs = 2
+* Learning rate = 0.0001  
+* Batch size = 32  
+* Optimizer = Adam   
+* Fliters = 8   
+* epochs = 2
 
 Name |  The accuracy of training  |  The accuracy of valid  |
 :---: | :---: | :---:
