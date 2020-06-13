@@ -2,14 +2,18 @@
 The repository includes the implementation of VGG11, VGG13, VGG16 and VGG19 in Tensorflow 2  
 
 ### VGG Architecrures
+
 <p align="center">
-<img src="img/vgg.png" align="center" width="800" height="600"/>   
 image is taken from [source](http://blog.17study.com.cn/2018/01/15/tensorFlow-series-8/)
+<img src="img/vgg.png" align="center" width="800" height="600"/>
 </p>
+
 <p align="center">
-<img src="img/vgg16.png" width="800" height="400"/>   
 VGG16 Architecture <small>source</small>
+<img src="img/vgg16.png" width="800" height="400"/>   
 </p>
+
+
 ### Training on MNIST
 <img src="img/mnist.png" width="800" height="350"/>
 
