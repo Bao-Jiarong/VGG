@@ -5,12 +5,13 @@ The repository includes the implementation of VGG11, VGG13, VGG16 and VGG19 in T
 
 <center>
 <img src="img/vgg.png" align="center" width="800" height="600"/>
-
 image is taken from [source](http://blog.17study.com.cn/2018/01/15/tensorFlow-series-8/)
+</center>
 
 <center>   
 <img src="img/vgg16.png" width="700" height="400"/>   
-<center>VGG16 Architecture [source](https://neurohive.io/en/popular-networks/vgg16/)</center>
+VGG16 Architecture [source](https://neurohive.io/en/popular-networks/vgg16/)
+</center>
 
 
 ### Training on MNIST
