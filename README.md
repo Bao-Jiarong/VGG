@@ -48,7 +48,7 @@ You can also make the size of images smaller, so that it can be ran faster and d
 * Fliters = 8   
 * epochs = 2
 
-Name |  The accuracy of training  |  The accuracy of valid  |
+Name |  Training Accuracy |  Validation Accuracy  |
 :---: | :---: | :---:
 VGG11 | 88.08% | 95.77%
 VGG13 | 93.99% | 94.85%
