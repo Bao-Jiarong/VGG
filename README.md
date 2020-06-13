@@ -9,6 +9,7 @@ The repository includes the implementation of VGG11, VGG13, VGG16 and VGG19 in T
 
 image is taken from [source](http://blog.17study.com.cn/2018/01/15/tensorFlow-series-8/)   
 
+
 <center>   
 <img src="img/vgg16.png" width="700" height="400"/>   
 </center>
